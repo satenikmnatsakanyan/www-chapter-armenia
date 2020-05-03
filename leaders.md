@@ -1,4 +1,4 @@
-### Leaders
+### Chapter Leaders
 
 * [Satenik Mnatsakanyan](mailto:satenik.mnatsakanyan@owasp.org)
 * [Vahe Evoyan](mailto:vahe.evoyan@owasp.org)
